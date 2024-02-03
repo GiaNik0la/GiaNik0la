@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GiaNik0la
-- 👀 I’m interested in programming and hacking.
-- 🌱 I’m currently learning 6502 ASM
+- 👀 I’m interested in programming.
+- 🌱 I’m currently learning x86 ASM
 
 <!---
 GiaNik0la/GiaNik0la is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
