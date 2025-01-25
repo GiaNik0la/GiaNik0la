@@ -1,7 +1,7 @@
 # GiaNik0la
 I use arch btw
 
-## Things I use (other than arch)
+### Things I use (other than arch)
 <img align="left" alt="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" />
 <img align="left" alt="Git" width="40px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/assembly-icon-1024x1024-lc5e1bk1.png" />
 <img align="left" alt="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -10,7 +10,15 @@ I use arch btw
 </br>
 </br>
 
-# (Kinda) Cool things I've made
+#
+<div id="toc">
+  <ul style="list-style: none">
+    <summary>
+      <h1>(Kinda) Cool things I've made</h1>
+    </summary>
+  </ul>
+</div>
+
 <div id="toc">
   <ul style="list-style: none">
     <summary>
